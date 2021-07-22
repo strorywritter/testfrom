@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "3": "^2.1.0",
+    "-": "^0.0.1",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.76.5"
+  },
+  "name": "testfrom-main",
+  "description": "This repository contains a boilerplate static site generator setup for creating CNCF documentation projects. We strongly recommend using this setup (it helps us help you and your project!), but none of the technologies in the stack are strictly required.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strorywritter/testfrom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strorywritter/testfrom/issues"
+  },
+  "homepage": "https://github.com/strorywritter/testfrom#readme"
+}
